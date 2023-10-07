@@ -1,0 +1,28 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+</style>
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.button {
+  width:66px;
+  padding: 20px 
+  margin : 0 10px;
+  border:2px solid black;
+  border-radius: 9px;
+  cursor:pinter;
+
+}
+
+.row {
+  margin: 4px 0;
+}
+.row input{
+  font-size:23px;
+  margin: 0;
+  padding: 10px 38px;
+  border:2px solid black;
+  border-radius:5px;
+}
